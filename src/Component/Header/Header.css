@@ -1,0 +1,8 @@
+.logos {
+    width: 60px;
+    height: 51px;
+    border-radius: 32px;
+}
+.btn:hover, .btn-active {
+    background-color: none!important;
+}

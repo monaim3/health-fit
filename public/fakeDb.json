@@ -1,0 +1,56 @@
+[
+    {
+      "id": "1",
+      "name": "Training Bench",
+      "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor doamet sint",
+      "price": 420,
+      "age": 20,
+      "Times": 30,
+      "img": "https://i.ibb.co/NpLGtxS/jelmer-assink-gze-Tj-Gu3b-k-unsplash.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Dumbbell Set",
+      "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor doamet sint",
+      "price": 420,
+      "age": 22,
+      "Times": 25,
+      "img": "https://i.ibb.co/MCsL8tY/humphrey-muleba-LOA2m-Tj1vhc-unsplash.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Barbell Set",
+      "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor doamet sint",
+      "price": 420,
+      "age": 23,
+      "Times": 28,
+      "img": "https://i.ibb.co/cQmC4yP/sven-mieke-Ms-Cgm-Huir-Do-unsplash.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Kettlebell Set",
+      "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor doamet sint",
+      "price": 420,
+      "age": 24,
+      "Times": 35,
+      "img": "https://i.ibb.co/fF6T54K/anastase-maragos-7k-Ep-UPB8v-Nk-unsplash.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Treadmill",
+      "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor doamet sint",
+      "price": 420,
+      "age": 20,
+      "Times": 32,
+      "img": "https://i.ibb.co/jTRTh60/risen-wang-20j-X9b35r-M-unsplash.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Rowing Machine",
+      "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor doamet sint",
+      "price": 420,
+      "age": 20,
+      "Times": 32,
+      "img": "https://i.ibb.co/41QcxRB/victor-freitas-Wv-DYd-XDzkhs-unsplash.jpg"
+    }
+  ]
